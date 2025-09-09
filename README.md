@@ -83,15 +83,13 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-
-![alt text](<WhatsApp Image 2025-09-09 at 14.45.07_2327cae9.jpg>) 
-![alt text](<WhatsApp Image 2025-09-09 at 14.45.13_0f2d282a.jpg>) 
-![alt text](<WhatsApp Image 2025-09-09 at 14.45.16_9b256f40.jpg>) 
-![alt text](<WhatsApp Image 2025-09-09 at 14.45.19_9788008a.jpg>) 
-![alt text](<WhatsApp Image 2025-09-09 at 14.45.23_9f47802c.jpg>) 
-![alt text](<WhatsApp Image 2025-09-09 at 14.45.25_a9028693.jpg>) 
-![alt text](<WhatsApp Image 2025-09-09 at 14.45.28_22eecece.jpg>)
-
+![alt text](<Output Images/WhatsApp Image 2025-09-09 at 14.45.07_2327cae9.jpg>)
+![alt text](<Output Images/WhatsApp Image 2025-09-09 at 14.45.07_2327cae9.jpg>)
+![alt text](<Output Images/WhatsApp Image 2025-09-09 at 14.45.07_2327cae9.jpg>)
+![alt text](<Output Images/WhatsApp Image 2025-09-09 at 14.45.19_9788008a.jpg>)
+![alt text](<Output Images/WhatsApp Image 2025-09-09 at 14.45.23_9f47802c.jpg>)
+![alt text](<Output Images/WhatsApp Image 2025-09-09 at 14.45.25_a9028693.jpg>)
+![alt text](<Output Images/WhatsApp Image 2025-09-09 at 14.45.28_22eecece.jpg>)
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
