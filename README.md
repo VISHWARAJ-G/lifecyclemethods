@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
 <img src="Output Images/OnStop_Image.jpg" height=400>
 
 #### OnPause Popup
-<img src="<Output Images/OnPause_Image.jpg" height=400>
+<img src="Output Images/OnPause_Image.jpg" height=400>
 
 #### OnDestroy Popup
 <img src="Output Images/OnDestroy_Image.jpg" height=400>
