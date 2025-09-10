@@ -84,19 +84,25 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 #### Oncreate Popup
-![alt text](<Output Images/OnCreate_Image.jpg>)
+<img src="Output Images/OnCreate_Image.jpg" height=400>
+
 #### OnStart Popup
-![alt text](<Output Images/OnStart_Image.jpg>)
+<img src="Output Images/OnStart_Image.jpg" height=400>
+
 #### OnResume Popup
-![alt text](<Output Images/OnResume_Image.jpg>)
+<img src="Output Images/OnResume_Image.jpg" height=400>
+
 #### OnRestart Popup
-![alt text](<Output Images/OnRestart_Image.jpg>)
+<img src="Output Images/OnRestart_Image.jpg" height=400>
+
 #### OnStop Popup
-![alt text](<Output Images/OnStop_Image.jpg>)
+<img src="Output Images/OnStop_Image.jpg" height=400>
+
 #### OnPause Popup
-![alt text](<Output Images/OnPause_Image.jpg>)
+<img src="<Output Images/OnPause_Image.jpg" height=400>
+
 #### OnDestroy Popup
-![alt text](<Output Images/OnDestroy_Image.jpg>)
+<img src="Output Images/OnDestroy_Image.jpg" height=400>
 
 
 
