@@ -83,6 +83,13 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
+
+#### Design Part
+![alt text](<Output Images/Design_Part.png>)
+
+#### Coding Part
+![alt text](<Output Images/Coding_Part.png>)
+
 #### Oncreate Popup
 <img src="Output Images/OnCreate_Image.jpg" height=400>
 
